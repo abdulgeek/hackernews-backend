@@ -29,7 +29,7 @@ This project is a backend service built with NestJS. It includes an API for fetc
 3. **Running the Application:**
    For development:   
     ```bash
-   npm run start:dev
+   npm run dev
    ```
    For production:
     ```bash
